@@ -1,0 +1,16 @@
+.forminput-wrapper {
+  margin: 2px;
+  padding: 10px;
+}
+label {
+  display: block;
+}
+input {
+  display: block;
+}
+.help-text {
+  color: #747474;
+}
+.form-heading {
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+.forminput-wrapper {
+  margin: 2px;
+  padding: 10px;
+}
+label {
+  display: block;
+}
+
+.form-heading {
+  text-align: center;
+}

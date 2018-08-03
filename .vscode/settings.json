@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Abyss",
+  "editor.fontSize": 13,
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": true,
+  "editor.dragAndDrop": true,
+  "editor.formatOnSave": true
+}

@@ -1,0 +1,35 @@
+.wizard {
+  margin: 10px;
+  padding: 10px;
+  background: #e4e4e4;
+}
+/* .wizard-step-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+} */
+.form-heading-wrapper {
+  text-align: center;
+}
+
+.form-heading {
+  text-align: center;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-two-values {
+  flex-grow: 1;
+}
+label {
+  display: block;
+}
+.val-label {
+  color: #747474;
+  font-size: 16px;
+  display: block;
+  margin-top: 8px;
+}
